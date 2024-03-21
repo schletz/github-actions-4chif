@@ -111,3 +111,9 @@ jobs:
 ```
 
 Führe nun einen commit (z. B. *add workflow*) durch.
+
+### Kontrollieren der Ausgabe
+
+Gehe in Github auf das Repository.
+Unter *Actions* siehst du die Ausgabe des Workflows.
+Es muss ein grünes Häkchen angezeigt werden.
